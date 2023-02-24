@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "977461524584",
+    "project_id": "chatter-8b223",
+    "storage_bucket": "chatter-8b223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977461524584:android:d139cf54f2da355b7a23dd",
+        "android_client_info": {
+          "package_name": "com.company.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977461524584-hs9mvl363i7kvovd7dsm4bj5cj5ragui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADpAmfQe2eCcuxufLG-zACghdfPeI6YMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977461524584-hs9mvl363i7kvovd7dsm4bj5cj5ragui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977461524584-ljfafucv1hsqnqm5vk9jmsfsfoc46q1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977461524584:android:b0dea0433afb8fb07a23dd",
+        "android_client_info": {
+          "package_name": "com.company.chatters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977461524584-hs9mvl363i7kvovd7dsm4bj5cj5ragui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADpAmfQe2eCcuxufLG-zACghdfPeI6YMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977461524584-hs9mvl363i7kvovd7dsm4bj5cj5ragui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977461524584-ljfafucv1hsqnqm5vk9jmsfsfoc46q1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977461524584:android:8ca6fa80f7a8aa897a23dd",
+        "android_client_info": {
+          "package_name": "com.example.chatify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977461524584-hs9mvl363i7kvovd7dsm4bj5cj5ragui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADpAmfQe2eCcuxufLG-zACghdfPeI6YMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977461524584-hs9mvl363i7kvovd7dsm4bj5cj5ragui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977461524584-ljfafucv1hsqnqm5vk9jmsfsfoc46q1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977461524584:android:f90dcfd4f03007827a23dd",
+        "android_client_info": {
+          "package_name": "com.example.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977461524584-hs9mvl363i7kvovd7dsm4bj5cj5ragui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADpAmfQe2eCcuxufLG-zACghdfPeI6YMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977461524584-hs9mvl363i7kvovd7dsm4bj5cj5ragui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977461524584-ljfafucv1hsqnqm5vk9jmsfsfoc46q1c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
